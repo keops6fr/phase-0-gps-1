@@ -18,3 +18,4 @@ create a new branch + name it + switch from the master to the new branch
 git checkout --help
 read about the checkout command and its options
 
+change
